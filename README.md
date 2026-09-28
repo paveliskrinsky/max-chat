@@ -2,6 +2,8 @@
 
 Тестовое задание на должность «Фронтенд разработчик React».
 
+**Онлайн-версия:** https://paveliskrinsky.github.io/max-chat/
+
 Веб-интерфейс для отправки и получения текстовых сообщений в мессенджере **MAX** через сервис [GREEN-API](https://green-api.com/max). Внешний вид повторяет [web.max.ru](https://web.max.ru/): левая панель, список «Чаты» с поиском и кнопкой «+», окно переписки с «пузырями» сообщений. Тёмная тема как в MAX, светлая включается по системной настройке.
 
 ## Возможности
@@ -24,7 +26,7 @@ React 19, TypeScript, Vite. Без UI-библиотек и менеджеров
 Нужен Node.js 20.19+ или 22.12+.
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/paveliskrinsky/max-chat.git
 cd max-chat
 npm install
 npm run dev
